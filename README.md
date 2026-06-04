@@ -64,12 +64,6 @@ West and North regions delivered the strongest profitability performance across 
 
 ---
 
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 ## Author
 
 Blessing Osazuwa
